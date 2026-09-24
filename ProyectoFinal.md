@@ -205,3 +205,29 @@ Fuente consultada: MDN Web Docs, “JavaScript”, “What is JavaScript?” y �
 Definición: Es un lenguaje basado en JavaScript que agrega un sistema de tipos para ayudar a detectar ciertos errores antes de ejecutar el programa. El código TypeScript puede transformarse posteriormente en JavaScript para ejecutarse en entornos compatibles.
 Ejemplo: Si una función espera recibir un número y el programador intenta pasarle un texto, TypeScript puede señalar el problema durante la comprobación del código antes de ejecutar la aplicación.
 Fuente consultada: TypeScript Handbook, “TypeScript for the New Programmer” y “The TypeScript Handbook”.
+
+Referencias bibliográficas
+
+* IBM. (2025). ¿Qué es un compilador? IBM. https://www.ibm.com/mx-es/think/topics/compiler⁠
+
+* Microsoft. (s. f.). Visual Studio IDE. Microsoft Learn. Microsoft Learn
+⁠
+* Mozilla. (s. f.). MDN Web Docs: Glossary. MDN Web Docs. MDN Web Docs
+⁠
+* Oracle. (s. f.). Java documentation. Oracle. Oracle Java Documentation
+  ⁠
+* Git. (s. f.). Git documentation. Git Documentation⁠
+  
+* GitHub. (s. f.). GitHub Docs. GitHub. GitHub Docs
+
+* GitHub. (s. f.). About Git. GitHub Docs. About Git⁠
+
+* GitHub. (s. f.). About repositories. GitHub Docs. About repositories⁠
+
+* GitHub. (s. f.). Branches. GitHub Docs. Branches⁠
+  
+* GitHub. (s. f.). Commits. GitHub Docs. Commits⁠
+
+* TypeScript. (s. f.). The TypeScript Handbook. Microsoft. TypeScript Handbook
+⁠
+* TypeScript. (s. f.). TypeScript for the New Programmer. Microsoft. TypeScript for the New Programmer⁠
